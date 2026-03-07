@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: JAYANI N
+* **Register Number**: 212224100025
+* **Date of Submission**: 7/03/26
 
 ---
 
@@ -82,13 +82,17 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+
+1. Logged into the AWS Management Console and launched an EC2 instance using Amazon Linux AMI.
+
+2. Configured the security group to allow SSH (Port 22) and MySQL database access (Port 3306).
+
+3. Connected to the EC2 instance using SSH from the terminal.
+
+4. Installed the MySQL database server using the package manager and started the database service.
+
+5. Created a sample database and table, inserted records, and verified the data using SQL queries.
 
 ---
 
@@ -96,19 +100,22 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1007" height="499" alt="Screenshot 2026-03-07 230324" src="https://github.com/user-attachments/assets/4116cf0c-7ad7-4edd-9598-9f7086757d19" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="982" height="528" alt="Screenshot 2026-03-07 230337" src="https://github.com/user-attachments/assets/16fc5e74-d0f1-418a-91d8-76e196484648" />
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="960" height="347" alt="image" src="https://github.com/user-attachments/assets/34179f14-3360-4176-b23f-e15260f6dfc6" />
+
 
 ---
 
